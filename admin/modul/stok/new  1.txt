@@ -1,0 +1,4 @@
+ $carikeluar=mysql_fetch_array(mysql_query("select sum(stok) as stok from stok where status='sell' and id_barang='$f[id_barang]' "));
+						  $stokmasuk=$carimasuk[stok];
+						  $nilai_jual=$carimasuk[stok] * $f[harga_jual];
+						  $rp_nilaijual=number_format ($nilai_jual);

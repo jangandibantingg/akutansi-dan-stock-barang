@@ -1,0 +1,11 @@
+<p style="text-align: center;"><span style="text-decoration: underline;"><span style="font-size: x-large; font-family: georgia,palatino;">APLIKASI AKUNTANSI DAN STOK BARANG SEDERHANA </span></span></p>
+<p style="text-align: center;"><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">silahkan kelola pada menu sebelah kiri</span><br /></span></p>
+<p style="text-align: justify;"><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">aplikasi ini mungkin masih jauh dari kata sempurna, bebekal baca sana sini di google akhirnya saya membuat aplikasi ini sesuai prosedure akutansi yang saya mengerti, silahkan anda pelajari untuk yang masih pemula di dunia PHP dan yang sudah merasa expert bisa di komen di bawah artikel <br /></span></span></p>
+<ul>
+<li><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">income statement (berisikan data atau informasi mengenai besarnya laba atau rugi yang dihasilkan dari pendapatan dan besarnya pengeluaran yang terjadi pada periode tertentu)<br /></span></span></li>
+<li><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">neraca (berisikan informasi harta (asset), utang atau kewajiban serta modal (capital) pada periode tertentu)<br /></span></span></li>
+<li><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">cash flow (Laporan keuangan yang berisikan aliran kas masuk dan kas keluar suatu perusahaan pada periode tertentu. Laporan ini biasanya berisikan mengenai informasi kegiatan operasional (operating activities), investasi (investing activities) dan keuangan (financing activities))<br /></span></span></li>
+<li><span style="font-size: x-large; font-family: georgia,palatino;"><span style="font-size: small;">general ledger (berisikan data atau informasi mengenai besarnya laba atau rugi yang dihasilkan dari pendapatan dan besarnya pengeluaran yang terjadi pada periode tertentu).<br /></span></span></li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

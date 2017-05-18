@@ -1,0 +1,1 @@
+$bonussponsorsu= ( $b1[sponsor_ulang] * $sponsorsu1 ) + ( $b2[sponsor_ulang] * $sponsorsu2 ) + ( $b3[sponsor_ulang] * $sponsorsu3 ) + ( $b4[sponsor_ulang] * $sponsorsu4 ) + ( $b5[sponsor_ulang] * $sponsorsu5 ) + ( $b6[sponsor_ulang] * $sponsorsu6 ) + ( $b7[sponsor_ulang] * $sponsorsu7 ) + ( $b8[sponsor_ulang] * $sponsorsu8 ) ;

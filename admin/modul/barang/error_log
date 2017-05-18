@@ -1,0 +1,16 @@
+[30-Oct-2015 07:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 07:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 07:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 07:55:39 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 08:15:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 08:15:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 08:15:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 08:15:28 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 08:16:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 08:16:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 08:16:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 34
+[30-Oct-2015 08:16:32 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 38
+[30-Oct-2015 18:40:26 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 36
+[30-Oct-2015 18:40:26 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 40
+[30-Oct-2015 18:40:26 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 36
+[30-Oct-2015 18:40:26 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ciscom/public_html/adminkhas/modul/barang/detail_stok.php on line 40

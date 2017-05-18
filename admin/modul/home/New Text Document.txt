@@ -1,0 +1,155 @@
+<div class="row-fluid">	
+				<div class="box blue span12">
+					<div class="box-header">
+						<h2><i class="halflings-icon hand-top"></i><span class="break"></span>Quick Buttons</h2>
+					</div>
+					<div class="box-content">
+						
+						<a  href="?module=profil" class="quick-button span2">
+							<i class="icon-user"></i>
+							<p>Profile <?php echo "$_SESSION[namauser]";?></p>
+							
+						</a>
+						<a href="?module=sponsoring" class="quick-button span2">
+							<i class="icon-group"></i>
+							<p>Sponsoring</p>
+						</a>
+						<a href="?module=order" class="quick-button span2">
+							<i class="icon-shopping-cart"></i>
+							<p>Order Produk</p>
+						</a>
+						<a href="?module=royalti-peringkat" class="quick-button span2">
+							<i class="icon-trophy"></i>
+							<p>Royalti Peringkat</p>
+						</a>
+						<a href="?module=ro" class="quick-button span2">
+							<i class="icon-truck"></i>
+							<p>RO / level </p>
+						</a>
+						<a class="quick-button span2">
+							<i class="icon-calendar"></i>
+							<p>Agenda CIS</p>
+							
+						</a>
+						<div class="clearfix"></div>
+					</div>	
+				</div><!--/span-->
+				
+			<div class="span12">
+					<h1>Statement Komisi</h1>
+					
+					<div class="priority high"><span>Saldo Terkini</span></div>
+					
+					<div class="task high">
+						<div class="desc">
+							<div class="title">Income Plan Aktif</div>
+							<div>Total Repeat Order Level + Royalti Perigkat</div>
+						</div>
+						<?php
+						$income_plana=$royalti + $rptotal ; 
+						$sisa= $income_plana + $income_planb - $tf ;
+						$rpsisa= number_format($sisa);
+						$rpplanaincome=number_format($income_plana);
+						?>
+						<div class="time">
+							<div class="date"><?php echo "$rpplanaincome IDR";?></div>
+							<div></div>
+						</div>
+					</div>
+					<div class="task high">
+						<div class="desc">
+							<div class="title">Income Plan Pasif</div>
+							<div>Bonus Produk + Bonus Interval + bonus sponsoring</div>
+						</div>
+						<div class="time">
+							<div class="date">0 IDR</div>
+							<div></div>
+						</div>
+					</div>
+					<div class="task high">
+						<div class="desc">
+							<div class="title">Transfer Saldo</div>
+							<div>total saldo yang sudah dibayarkan ke rekening anda</div>
+						</div>
+						<div class="time">
+							<div class="date"><?php echo "$rpfor IDR";?></div>
+							<div> </div>
+						</div>
+					</div>
+				
+					<div class="task high last">
+						<div class="desc">
+							<div class="title">Sisa Saldo</div>
+							<div>saldo akhir ( di transfer setelah saldo akhir anda minimal 105.000 IDR ) </div>
+						</div>
+						<div class="time">
+							<div class="date"><?php echo "$rpsisa IDR";?></div>
+							<div></div>
+						</div>
+					</div>
+					
+					<div class="priority medium"><span>Detail Plan Aktif</span></div>
+					
+					<div class="task medium">
+						<div class="desc">
+							<div class="title">Repeat Order Lever</div>
+							<div><a href="media.php?module=ro"><span class="label label-warning">detail</span></a></div>
+						</div>
+						<div class="time">
+							<div class="date"><?php echo "$rptotal IDR";?></div>
+							<div> </div>
+						</div>
+					</div>
+					<div class="task medium last">
+						<div class="desc">
+							<div class="title">Royalti peringkat (<?php echo "$rper[peringkat]";?>) </div>
+							<div><a href="media.php?module=royalti-peringkat"><span class="label label-warning">detail</span></a></div>
+						</div>
+				
+						<div class="time">
+							<div class="date"><?php echo "$rproyalti IDR";?> </div>
+							<div> </div>
+						</div>
+					</div>
+					
+					<div class="priority low"><span>Detail Plan Pasif</span></div>
+					
+					<div class="task low">
+						<div class="desc">
+							<div class="title">Bonus Sponsor</div>
+							<div></div>
+						</div>
+						<div class="time">
+							<div class="date">0 IDR</div>
+							<div> </div>
+						</div>
+					</div>
+					<div class="task low">
+						<div class="desc">
+							<div class="title">Bonus Interval</div>
+							<div></div>
+						</div>
+						<div class="time">
+							<div class="date">0 IDR</div>
+							<div> </div>
+						</div>
+					</div>
+					<div class="task low">
+						<div class="desc">
+							<div class="title">Bonus Produk</div>
+							<div></div>
+						</div>
+						<div class="time">
+							<div class="date">0 IDR</div>
+							<div> </div>
+						</div>
+					</div>
+					
+					
+					
+					
+					<div class="clearfix"></div>		
+					
+				</div>
+			</div>
+			
